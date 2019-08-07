@@ -8,11 +8,10 @@
 // @include     https://sesam.intra.ip-only.net/*
 // ==/UserScript==
 
-'use strict';
-
-
 
 $(document).ready(function () {
+	
+	'use strict';
 
     $('*').filter(function () {
         if ($(this).width() > 1200) {
