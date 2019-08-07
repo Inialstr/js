@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Responsive Sesam
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.11
 // @description  Responsive Sesam
 // @author       You
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
